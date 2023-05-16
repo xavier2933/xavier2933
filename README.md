@@ -10,7 +10,7 @@
 ## Things I'm working on:
 - Learning iOS development with Stanford CS193p 📚
 - Developing VR training platforms for maintenance on the moon 🌔
-- making final improvements before MATE ROV competiton season 💯
+- Making final improvements before MATE ROV competiton season 💯
 <!--
 **xavier2933/xavier2933** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
