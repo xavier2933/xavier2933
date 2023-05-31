@@ -4,7 +4,7 @@
 ## About me: 
 - Colorado Robosub software lead 💻
 - Undergraduate researcher at the University of Colorado Boulder Center for Astrophysics and Space Astronomy 🔭
-- Sophomore studying Aerospace Engineering and Computer Science at CU Boulder 🚀
+- Rising Junior studying Aerospace Engineering and Computer Science at CU Boulder 🚀
 - Ski master ⛷️
 
 ## Things I'm working on:
