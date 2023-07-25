@@ -2,15 +2,16 @@
 # Welcome to my personal github account!
 
 ## About me: 
-- Colorado Robosub software lead 💻
+- Colorado Robosub president and software lead 💻
 - Undergraduate researcher at the University of Colorado Boulder Center for Astrophysics and Space Astronomy 🔭
 - Rising Junior studying Aerospace Engineering and Computer Science at CU Boulder 🚀
 - Ski master ⛷️
 
 ## Things I'm working on:
 - Learning iOS development with Stanford CS193p 📚
+- Devloping Ape Eats, an iOS app that simplifies human's neverending search for food 🍌
 - Developing VR training platforms for maintenance on the moon 🌔
-- Making final improvements before MATE ROV competiton season 💯
+- Developing software for an autonomous submarine 💯
 <!--
 **xavier2933/xavier2933** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
