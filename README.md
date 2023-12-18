@@ -8,6 +8,8 @@
 - Ski master ⛷️
 
 ## Things I'm working on:
+- Making ALL NEW CODE for our new submarine, Chimera
+- Creating documentation to help future members onboard quicker: [link here.](https://cusub21.readthedocs.io/en/latest/index.html)
 - Learning iOS development with Stanford CS193p 📚
 - Devloping Ape Eats, an iOS app that simplifies human's neverending search for food 🍌
 - Developing VR training platforms for maintenance on the moon 🌔
