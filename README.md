@@ -1,19 +1,20 @@
 
-# Welcome to my personal github account!
+# Welcome to my personal GitHub 👋  
 
-## About me: 
-- Software developer with industry AND research experience
-- Colorado Robosub Tech Lead 💻
-- Undergraduate researcher at the University of Colorado Boulder Center for Astrophysics and Space Astronomy 🔭
-- Senior studying Aerospace Engineering and Computer Science at CU Boulder, graduating may 2025! 🚀
-- Ski master ⛷️
+## About me  
+- Aerospace Engineering masters student at CU Boulder 
+- Experienced in software engineering, robotics, and research — both in industry and academia  
+- Tech Lead for Colorado Robosub 🤖🌊  
+- Graduate researcher at the CU Boulder Center for Astrophysics and Space Astronomy 🔭  
+- Passionate about autonomy, robotics, and building tools that make complex systems accessible  
+- Ski enthusiast ⛷️  
 
-## Things I'm working on:
-- Making our BRAND NEW submarine Chimera fully autonomous
-- Creating documentation to help future members onboard quicker: [link here.](https://cusub21.readthedocs.io/en/latest/index.html)
-- Devloping Ape Eats, an iOS app that simplifies human's neverending search for food 🍌
-- Developing VR training platforms for rover operations on the moon 🌔
-- Developing software for an autonomous submarine 💯
+## Current Projects 
+- **Thesis:** Using imitation learning and LLMs to automate the deployment of 100,000 radio antennas on the (simulated) moon 
+- **Autonomous Submarine (Chimera):** Developing perception, planning, and control software to achieve full autonomy for our next-gen AUV    
+- **Lunar Rover Simulations:** Building digital twins of flight-ready rovers to enable earth-based operator training  
+ 
+
 <!--
 **xavier2933/xavier2933** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
