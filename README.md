@@ -3,7 +3,7 @@
 
 ## About me  
 - Aerospace Engineering masters student at CU Boulder 
-- Experienced in software engineering, robotics, and research — both in industry and academia  
+- Experienced in software engineering, robotics, and research, both in industry and academia  
 - Tech Lead for Colorado Robosub 🤖🌊  
 - Graduate researcher at the CU Boulder Center for Astrophysics and Space Astronomy 🔭  
 - Passionate about autonomy, robotics, and building tools that make complex systems accessible  
