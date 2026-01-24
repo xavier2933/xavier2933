@@ -10,7 +10,7 @@
 - Ski enthusiast ⛷️  
 
 ## Current Projects 
-- **Thesis:** Using imitation learning and LLMs to automate the deployment of 100,000 radio antennas on the (simulated) moon 
+- **Master's Thesis:** Using imitation learning and LLMs to automate the deployment of 100,000 radio antennas on the (simulated) moon 
 - **Autonomous Submarine (Chimera):** Developing perception, planning, and control software to achieve full autonomy for our next-gen AUV    
 - **Lunar Rover Simulations:** Building digital twins of flight-ready rovers to enable earth-based operator training  
  
